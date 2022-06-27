@@ -10,12 +10,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 Photo & Albums
-
-    camera_alt JNV Sitamarhi Campus
-    camera_alt Memorable Photos
-    camera_alt Holi at JNV Sitamarhi
-    camera_alt JNVS Alumni Meet Dec-2009
-    camera_alt JNVS Alumni Meet July-2011
-    camera_alt JNVS Alumni Meet July-2013
-    camera_alt Saraswati Pooja 2014
-    camera_alt JNVS Alumni Meet Jan-2016

@@ -1,5 +1,6 @@
 ---
 title: Alumni
+
 ---
 
 ## Let's get to know each other
@@ -7,7 +8,7 @@ title: Alumni
 Please spend 2 minutes ti share your details with us. We will be sharing this to School Administration periodically.
 Your details will remain confidential and you can update this at any point of time in future as well.
 
-[PROCEED](https://forms.gle/NdgkhYvyzf6yJPpHA){: .btn}
+{% include button.html url="https://forms.gle/NdgkhYvyzf6yJPpHA" text="PROCEED" %}
 
 ## Join our online network
 
